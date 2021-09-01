@@ -11,4 +11,4 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Run API Tests
-        run: newman run "Practice Guru99.postman_collection.json" -e My Workspace.postman_globals.json
+        run: newman run "Practice Guru99.postman_collection.json"
