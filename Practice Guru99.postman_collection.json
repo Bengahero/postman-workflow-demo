@@ -35,9 +35,12 @@
 					"raw": ""
 				},
 				"url": {
-					"raw": "{{url}}/users",
+					"raw": "https://jsonplaceholder.typicode.com/users",
+					"protocol": "https",
 					"host": [
-						"{{url}}"
+						"jsonplaceholder",
+						"typicode",
+						"com"
 					],
 					"path": [
 						"users"
@@ -61,9 +64,12 @@
 					}
 				},
 				"url": {
-					"raw": "{{url}}/users",
+					"raw": "https://jsonplaceholder.typicode.com/users",
+					"protocol": "https",
 					"host": [
-						"{{url}}"
+						"jsonplaceholder",
+						"typicode",
+						"com"
 					],
 					"path": [
 						"users"
